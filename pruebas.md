@@ -1,0 +1,1 @@
+## Controlador (![Arduino Mega 2560](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.arduino.cc%2Fproducts%2Farduino-mega-2560-rev3&psig=AOvVaw1J4gwY87naKFug0m60udpG&ust=1717873182793000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiNqbmWyoYDFQAAAAAdAAAAABAE))
